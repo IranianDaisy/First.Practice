@@ -1,0 +1,12 @@
+body{
+    background-color: #f2f2f2;
+    }
+
+body h1{
+    background-color: blueviolet;
+    width:400px;
+}
+p{
+    color:darkgray;
+    font-size: larger;
+}
